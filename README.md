@@ -85,6 +85,7 @@ specification for how to run the containers.
 
 ==> kubectl edit pod redis
 
+==> kubectl apply -f {file.yaml}
 
 ## NODE
 
