@@ -44,6 +44,10 @@ sessions inside or outside of your cluster.
 
 ==> minikube start --driver=docker
 
+==> minikube start --cpus 4 --memory 8192
+
+==> minikube config set driver virtualbox
+
 
 ## DEPLOYMENT
 
